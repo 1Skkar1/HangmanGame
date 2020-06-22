@@ -3,6 +3,7 @@ Hangman Game - PyGame
 
 Date: ***June 22nd 2020***
 
+
 Simple Python implementation of the classic hangman game using PyGame.
 
 ### Requirements:
